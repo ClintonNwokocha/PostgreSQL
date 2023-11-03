@@ -1,4 +1,4 @@
-# PostgreSQ
+# PostgreSQL
 
 This repository is a collection of my PostgreSQL projects, focusing on advanced SQL queries, database optimization, and data analytics techniques.
 
